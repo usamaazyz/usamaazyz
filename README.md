@@ -45,7 +45,7 @@
 
 <p align='center'>
   
-  <a href="https://wa.link/0kn6yh">
+  <a href="https://wa.link/twpnse">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/usama_azyz/">
