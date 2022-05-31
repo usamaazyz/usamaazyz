@@ -2,15 +2,15 @@
 
 <h2> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey there!</h2>
 
-<h2> 💁‍♂️ I'm Izaan Vohra </h2>
+<h2> 💁‍♂️ I'm Usama Azyz </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/2rAF2FUn94dIlljSms/giphy.gif" width="40"></h3>
 
 - 🎓 &nbsp; Studying Computer Science at FAST National University.
 - 🤔 &nbsp; Exploring new technologies.
 - 🌱 &nbsp; Learning more about Programming Languages, Web Development.
-- 🥋 &nbsp; My hobbies are playing sport, GYM and EXPLORING new.
-- 🎧 &nbsp; "DEATH BEFORE DISGRACE, NO FEAR EXCEPT ALLAH!"
+- 🥋 &nbsp; My hobbies are playing sport,video games,coding and EXPLORING new.
+- 🎧 &nbsp; "Challenges and Problems are the fuel of success".
 
 <h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h3>
 
