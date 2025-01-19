@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🎓  Computer Science Graduated from FAST National University.<br>- 🤔  Exploring new technologies.<br>- 🌱  Learning more about Programming Languages, AI/ML Algorithms.<br>- 🥋 My hobbies are playing sport,video games,coding and EXPLORING new.<br>- 🎧 Challenges and Problems are the fuel of success.<br>- ✨ Creating bugs since 2020.</p>
+<p align="left">- 🎓  Computer Science Graduate from FAST National University.<br>- 🤔  Exploring new technologies.<br>- 🌱  Learning more about Programming Languages, AI/ML Algorithms.<br>- 🥋 My hobbies are playing sport,video games,coding and EXPLORING new.<br>- 🎧 Challenges and Problems are the fuel of success.<br>- ✨ Creating bugs since 2020.</p>
 
 ###
 
